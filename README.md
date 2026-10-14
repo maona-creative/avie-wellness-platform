@@ -115,4 +115,4 @@ Built together with **Sergiu Frunze** <!-- add Sergiu's GitHub link here: ([@han
 ## Contact
 
 <!-- Add your LinkedIn / email / portfolio here -->
-Anastasiia Matrunich · [LinkedIn](#) · [GitHub](#)
+Anastasiia Matrunich · [LinkedIn](https://www.linkedin.com/in/anastasia-matrunich)
