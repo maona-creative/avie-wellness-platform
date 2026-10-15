@@ -7,8 +7,9 @@ Built in a team of two at [kood/Jõhvi](https://kood.tech) as part of the Genera
 <!-- VIDEO: replace this block with your demo. Two options:
      1) Drag your .mp4 file into this README on github.com (edit mode) — GitHub embeds a player (max 10 MB on free plans).
      2) YouTube: [![Watch the demo](screenshots/avie.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+     ▶️ **[Watch the 3-minute demo](#)**
 -->
-▶️ **[Watch the 3-minute demo](#)**
+
 
 <img src="screenshots/avie.png" width="900" alt="Avie, the AI assistant, answering a question about the user's daily protein target" />
 
